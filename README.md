@@ -1,8 +1,5 @@
 # Football Player Analysis: Classification, Regression, and Clustering
-[cite_start]*Sfruttamento dei Dati di Prestazione per la Classificazione delle Posizioni, la Regressione dei Valori di mercato e il Clustering dei Calciatori* [cite: 1, 2]
 
-[cite_start]**Authors**: Tommaso Menghini (864946), Tommaso Pozzi (864654) [cite: 3, 4]
-[cite_start]**Date**: July 15, 2024 [cite: 5]
 
 ## 📖 Project Overview
 [cite_start]This project leverages a data-driven approach to gain a competitive edge in football analytics[cite: 7]. Using player performance data from the 2023-2024 season, we developed machine learning models to address three key tasks:
